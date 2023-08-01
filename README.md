@@ -27,7 +27,6 @@ Ejemplos campos Json:
 ```sh
 {
     "nombrecolumna": "Fecha",
-    "tamano": "",
     "orden": "3",
     "formato": "ddMMyyyy"  Aqui representaremos la fecha en los formatos que deseemos (es el formato de fecha resultante)
   }
